@@ -1,0 +1,29 @@
+.white-box{
+    height: 450px;
+    width: 800px;
+    background: whitesmoke;
+    margin-top: 75px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+.buttons {
+    width: 60vw;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;
+}
+
+.index {
+    margin-left: 600px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 40px;
+    
+}
